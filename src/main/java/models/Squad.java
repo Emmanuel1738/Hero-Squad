@@ -1,5 +1,8 @@
 package models;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Squad {
     private String mSquadName;
     private int mMaxSize;
@@ -39,7 +42,7 @@ public class Squad {
         return instances.get(id-1);
     }
 
-    public static List <Squad> all(){
+    public static List<Squad> all(){
         return instances;
     }
     public static void clear(){
