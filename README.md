@@ -1,17 +1,17 @@
 # HeroSquad
 
 ## Author
-Emmanuel Bett
+Emmanuel Bett.
 
 ## Description
-This is a web application that let's you create your own heroes and squads
+This is a web application that let's you create your own heroes and squads.
 
 ## Setup
 
 - Have a Java IDE installed, preferably Intellij.
 - Have JDK 11 installed installed system wide.
-- Clone this repo 
-- Run Gradle build in your IDE and hit the run button  
+- Clone this repo. 
+- Run Gradle build in your IDE and hit the run button.  
 
 ## Technologies Used
 - HTMl
