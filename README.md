@@ -10,7 +10,7 @@ This is a web application that let's you create your own heroes and squads.
 
 - Have a Java IDE installed, preferably Intellij.
 - Have JDK 11 installed installed system wide.
-- Clone this repo. 
+- Clone this repo https://herosquad1738.herokuapp.com/
 - Run Gradle build in your IDE and hit the run button.  
 
 ## Technologies Used
